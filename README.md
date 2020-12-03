@@ -10,5 +10,5 @@ O controle das arefas desse projeto será realizado no :octocat:Github
 
 :package: nova uncionalidade
 :up: atualização
-:beatle: correção de bug
-:chackered_flag: release (entraga de uma parte funcional)
+:beetle: correção de bug
+:checkered_flag: release (entraga de uma parte funcional)
