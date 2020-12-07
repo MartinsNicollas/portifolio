@@ -2,5 +2,5 @@
 
 var hamburguer = document.querySelector(".hamburguer");
 hamburguer.addEventListener("click", function () {
-  document.querySelector("sidebar").classList.toggle("shadow-manu");
+  return document.querySelector(".container").classList.toggle("show-menu");
 });
