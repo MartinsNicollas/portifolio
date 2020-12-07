@@ -15,4 +15,4 @@ O controle das arefas desse projeto será realizado no :octocat:Github
 
 ## Last ATT
 
-- :paackage: Menu sidebar
+- :package: Menu sidebar
