@@ -24,6 +24,5 @@ O controle das arefas desse projeto será realizado no :octocat:Github
 
 - :package: Contato. designer simples direcionado aocontato direto.
 
-- :package: Orçamento. concluido, porem acredito que existam coisas que seja legal adicionar.
-
-- :beetle: adicionar uma regua de escala temporal no item (PRAZO).
+- :package: Orçamento. concluido, inluindo a funcionalidade de calculo do orçamento em tempo real.
+  Porem acredito que existam coisas que seja legal adicionar.
